@@ -8,6 +8,10 @@ end
 
 
 
+=begin
+array = [2, 3, 3, 4, 3, 6, 1, 3]
 def find_max_value(array)
-  array.max 
+  array.max
 end
+find_max_value(array)
+=end
