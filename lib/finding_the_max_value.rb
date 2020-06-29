@@ -1,3 +1,4 @@
+#array = [2, 3, 3, 4, 3, 6, 1, 3]
 def find_max_value(array)
   count = 0
   max_value = -1
@@ -9,11 +10,11 @@ def find_max_value(array)
   end
   max_value
 end
-
+#find_max_value(array)
 
 
 =begin
-array = [2, 3, 3, 4, 3, 6, 1, 3]
+array = [2, 3, 7, 4, 3, 6, 1, 3, 10]
 def find_max_value(array)
   array.max
 end
